@@ -1,2 +1,3 @@
-# Image_Compression_PCA
-Doing Image compression with PCA (extending it to step by step explaination)
+# Let's do image compression with PCA!
+
+Work in progress, will be extending it to step by step explaination
